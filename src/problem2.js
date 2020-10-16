@@ -13,6 +13,5 @@ export const sumEvenFib = () => {
       sum += current;
     }
   }
-  console.log(sum)
   return sum
 }
